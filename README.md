@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Dreampopsickle
+- 👋 Hi, I’m Christian
 - 👀 I’m interested in learning some code, bruv!
-- 🌱 I’m currently learning Python (and the Flask/Django frameworks), HTML, CSS, Javascript
+- 🌱 I mainly work with JavaScript, both client and server side (Node.Js)
 - 💞️ I’m looking to collaborate on really anything?
 - 📫 How to reach me is on here or something...idk.
 
