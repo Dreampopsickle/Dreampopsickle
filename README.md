@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Christian
-- 👀 I’m interested in learning some code, bruv!
-- 🌱 I mainly work with JavaScript, both client and server side (Node.Js)
-- 💞️ I’m looking to collaborate on really anything?
+- 👀 I’m am an Analytics Engineer
+- 🌱 I mainly work with Python, SQL and with tools like dbt. I can work in Javascript/Typescript as well as related frameworks (React, Svelte5, Node.js, etc.)
 - 📫 Contact info: CRakotoarisoa@gmail.com
 
 <!---
